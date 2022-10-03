@@ -1,4 +1,4 @@
-# vending_mechine  
+# vending_machine  
 ![image](https://user-images.githubusercontent.com/64779422/193543704-58b0bc4d-10e6-4829-955a-64a301445ea7.png)
 
 說明  
